@@ -1,2 +1,2 @@
 # World-of-Scanners
-Different Scanning Tools in Powershell and Python
+A repository of various scanners written in Powershell and Python
